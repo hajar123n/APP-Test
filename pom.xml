@@ -115,7 +115,7 @@
             <url>http://localhost:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
-            <id>nexus-snapshots1</id>
+            <id>nexus-snapshots</id>
             <name>Snapshots</name>
             <url>http://localhost:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
