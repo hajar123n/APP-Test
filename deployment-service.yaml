@@ -33,5 +33,5 @@ spec:
     - protocol: "TCP"
       port: 80
       targetPort: 8084
-      nodePort: 30007 # Vous pouvez choisir un port dans la plage 30000-32767
+      nodePort: 30008 # Vous pouvez choisir un port dans la plage 30000-32767
   type: NodePort
